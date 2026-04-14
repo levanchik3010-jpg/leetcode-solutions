@@ -12,4 +12,4 @@ class Solution:
 sol = Solution()
 prices = [7, 1, 5, 3, 6, 4]
 result = sol.hasDuplicate(prices)
-print(result)  # 5
+print(result)
